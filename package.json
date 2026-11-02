@@ -1,0 +1,7 @@
+{
+  "name": "dweeb-records",
+  "version": "1.0.0",
+  "private": true,
+  "description": "RDweeb commissions and portfolio. A static site with a showcase, packages, a request builder, a music player, games and a mock chat bot.",
+  "license": "CC-BY-4.0"
+}
